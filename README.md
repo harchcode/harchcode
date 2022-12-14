@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My projects:
+- https://github.com/harchcode/ubur
+- https://github.com/harchcode/web-digraph
+- https://github.com/harchcode/gaguna
+- https://github.com/harchcode/simple-sudoku-ts
+- https://github.com/harchcode/kisstastic
+- https://github.com/harchcode/portfolio
+
+My other projects/repos other than the ones above are either outdated or abandoned :see_no_evil:
